@@ -1,10 +1,14 @@
 .DS_Store
 node_modules
 /dist
+dist/
+cache/
 /aa
 /b
 /tmp
+/cache
 /pupoin
+
 
 # local env files
 .env.local
