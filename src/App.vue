@@ -7,7 +7,8 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
+      value: "World! This is my first web deployed on Azure. \n \
+          "
     };
   }
 };
