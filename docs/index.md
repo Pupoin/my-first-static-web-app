@@ -11,16 +11,16 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: 北洋战争一览
+      text: 近现代史
       link: /history/beiyang_war
     - theme: alt
-      text: test A
-      link: /test/api-examples
+      text: 那年那事
+      link: /history/history
 
 features:
-  - title: 杂谈
+  - title: 杂记
     details: di di da da di da da ~ ~ 
-    link: '/test/api-examples'
+    link: '/other/Z0'
   # - title: Feature B
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - title: Feature C

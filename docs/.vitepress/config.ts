@@ -15,8 +15,12 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       // { text: 'Tag', link: "/" },
       // { text: 'Blog', link: 'test/markdown-examples' },
-      { text: '历史', link: 'history/beiyang_war' },
-      { text: '杂谈', link: 'test/markdown-examples' },
+      {
+        text: '近现代史',
+        link: 'history/beiyang_war'
+      },
+      { text: '杂记', link: 'other/Z0' },
+      {text:'那年那事', link: 'history/history'},
 
       {
         text: 'About',
