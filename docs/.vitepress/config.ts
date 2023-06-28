@@ -6,46 +6,62 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: 'My Custom Title',
-    logo:'/assets/mine1.png',
-    // siteTitle:false,
+    // siteTitle: 'My Custom Title',
+    logo: '2150265.svg',
+    // siteTitle: false,
+    // aside: 'left',
+    sidebarMenuLabel: 'Content',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Contact', link: "/"},
-      { text: 'Examples', link: '/markdown-examples' },
+      // { text: 'Tag', link: "/" },
+      // { text: 'Blog', link: 'test/markdown-examples' },
+      { text: '历史', link: 'history/beiyang_war' },
+      { text: '杂谈', link: 'test/markdown-examples' },
 
       {
-        text: 'Dropdown Menu',
-        items: [
-          {
-            // You may also omit the title.
-            items: [
-              { text: 'Section A Item A', link: '...' },
-              { text: 'Section B Item B', link: '...' }
-            ]
-          }
-        ]
+        text: 'About',
+        link: 'about'
       }
     ],
-    sidebar: [
-      {
-        text: 'Examples',
-        collapsed: false,
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
-      {
-        text: 'test section',
-        items: [
-          { text: 'a new section ' }
-        ]
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: '...',
+        apiKey: '...',
+        indexName: '...'
       }
-    ],
+    },
+    sidebar: {
 
+      '/test/': [
+        {
+          text: 'Examples',
+          collapsed: false,
+          items: [
+            { text: 'Markdown Examples', link: 'test/markdown-examples' },
+            { text: 'Runtime API Examples', link: 'test/api-examples' }
+          ]
+        }
+
+      ],
+
+
+
+      '/history/': [
+        {
+          text: '历史',
+          items: [
+            { text: '北洋战争一览', link: 'history/beiyang_war' }
+          ]
+        }
+      ],
+
+
+
+
+    },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Pupoin' }
     ],
 
     footer: {
