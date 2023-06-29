@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 近现代史
-      link: /history/beiyang_war
+      link: /history/zhenmianWar2_1919
     - theme: alt
       text: 那年那事
       link: /history/history

@@ -17,10 +17,10 @@ export default defineConfig({
       // { text: 'Blog', link: 'test/markdown-examples' },
       {
         text: '近现代史',
-        link: 'history/beiyang_war'
+        link: 'history/zhenmianWar2_1919'
       },
       { text: '杂记', link: 'other/Z0' },
-      {text:'那年那事', link: 'history/history'},
+      {text:'那年那事', link: 'other/history'},
 
       {
         text: 'About',
@@ -55,10 +55,11 @@ export default defineConfig({
         {
           text: '历史',
           items: [
-            { text: '北洋战争一览', link: 'history/beiyang_war' }
+            { text: '从1840到1919', link: 'history/zhengminag_war2_china' },
+            { text: '北洋政府时期（1912-1928）', link: 'history/beiyang_war' },
           ]
         }
-      ],
+      ]
 
 
 
