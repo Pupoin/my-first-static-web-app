@@ -55,7 +55,7 @@ export default defineConfig({
         {
           text: '历史',
           items: [
-            { text: '从1840到1919', link: 'history/zhengminag_war2_china' },
+            { text: '从1840到1919', link: 'history/zhenmianWar2_1919' },
             { text: '北洋政府时期（1912-1928）', link: 'history/beiyang_war' },
           ]
         }
