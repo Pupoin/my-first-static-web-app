@@ -29,9 +29,9 @@
 - 1879 日吞琉球 
 ### 东北
 - 1886， 《中俄珲春东界约》，因《中俄北京条约》地标为木质，年久损坏不清，乃重划国界。吴大澂此次仅勘明自图们江口土字牌至兴凯湖的中俄边界。而自“喀（К）”字牌经兴凯湖至乌苏里江口段的水路边界，因为吴大澂“未能亲往履勘”，导致后来出现许多问题，其中最主要是黑瞎子岛问题。 
-<center>
-![](https://upload.wikimedia.org/wikipedia/commons/1/15/MANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg "中俄北京条约割让领土") 
-中俄北京条约割让领土，右上角河流中间为熊瞎子岛</center> 
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/MANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg "中俄北京条约割让领土")   
+<center> 中俄北京条约割让领土，右上角河流中间为熊瞎子岛</center> 
 
 
    
