@@ -15,7 +15,7 @@ hero:
       link: /history/zhenmianWar2_1919
     - theme: alt
       text: 那年那事
-      link: /history/history
+      link: /other/history
 
 features:
   - title: 杂记
