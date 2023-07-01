@@ -1,4 +1,4 @@
-# <center>清中后期(1840~二十世纪)，清军与主要农民运动 简述 <Badge type="tip" text="Beta 1.9.0"/> </center>
+# <center>清中后期(1840~二十世纪)，清军与主要农民运动 简述 <Badge type="tip" text="Beta 1.0"/> </center>
 
 ## 一、  清军
 清朝自入关以来，整顿军队。
