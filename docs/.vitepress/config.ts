@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Pupoin",
+  ignoreDeadLinks: true,
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -57,6 +58,7 @@ export default defineConfig({
           items: [
             { text: '从1840到1919', link: 'history/zhenmianWar2_1919' },
             { text: '北洋政府时期（1912-1928）', link: 'history/beiyang_war' },
+            {text:'清中后期，清军与主要农民运动', link:'history/Qin_peasantMovement'},
           ]
         }
       ]

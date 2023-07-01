@@ -21,9 +21,11 @@ features:
   - title: 杂记
     details: di di da da di da da ~ ~ 
     link: '/other/Z0'
-  # - title: Feature B
-  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - title: Feature C
-  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: test
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: '/test/api-examples'
+  - title: test2
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: '/test/markdown-examples'
 ---
 
