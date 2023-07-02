@@ -13,10 +13,10 @@ const { Layout } = DefaultTheme
 
     <template #home-hero-before>
       <center>
-<audio src="/lc_ba_lc_ba_qu_na_li_ya.mp3" preload="none" controls loop>
-  你的浏览器不支持 audio 标签。
-</audio>
-</center>
+        <audio src="/lc_ba_lc_ba_qu_na_li_ya.mp3" preload="none" controls loop>
+          你的浏览器不支持 audio 标签。
+        </audio>
+    </center>
     </template>
 
   </Layout>
