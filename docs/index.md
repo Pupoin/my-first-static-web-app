@@ -6,8 +6,8 @@ hero:
   name: "Pupoin"
   text: " "
   image: { 
-      light: "/.vitepress/assets/Little_Enterprise-1.png",
-      dark: "/.vitepress/assets/Little_Enterprise-1.png",
+      light: "/Little_Enterprise-1.png",
+      dark: "/Little_Enterprise-1.png",
       alt:   
     }
   tagline: Tags
@@ -44,7 +44,7 @@ features:
     link: '/test/markdown-examples'
 ---
 <center>
-<audio src="/.vitepress/assets/lc_ba_lc_ba_qu_na_li_ya.amr" preload="none" controls loop>
+<audio src="/lc_ba_lc_ba_qu_na_li_ya.mp3" preload="none" controls loop>
   你的浏览器不支持 audio 标签。
 </audio>
 </center>

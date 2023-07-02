@@ -17,7 +17,7 @@ export default defineConfig({
     //   prev: 'Pagina prior',
     //   next: 'Proxima pagina'
     // },
-    logo: '/.vitepress/assets/mine1.png',
+    logo: '/mine1.png',
     nav: [
       { text: '主页', link: '/' },
       // { text: 'Tag', link: "/" },
