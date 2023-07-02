@@ -1,3 +1,21 @@
+---
+# title: Docs with VitePress
+# titleTemplate: Vite & Vue powered static site generator
+# description: VitePress
+# editLink: true
+# aside: false # true, 'left'
+# outline: 2 #number | [number, number] | 'deep' | false
+# prev:
+#   text: 'Markdown'
+#   link: '/guide/markdown'
+# head:
+#   - - meta
+#     - name: description
+#       content: hello
+#   - - meta
+#     - name: keywords
+#       content: super duper SEO
+---
 # <center>北洋政府时期（1912-1928）</center>
 
 ## 二次革命

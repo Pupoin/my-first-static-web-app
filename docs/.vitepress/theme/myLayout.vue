@@ -1,4 +1,4 @@
-<!--.vitepress/theme/MyLayout.vue-->
+<!-- https://vitepress.dev/guide/extending-default-theme -->
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 
@@ -10,5 +10,10 @@ const { Layout } = DefaultTheme
     <template #aside-outline-before>
       <!-- My custom sidebar top content -->
     </template>
+
+    <template #home-hero-before>
+      <!-- afdasfdas -->
+    </template>
+
   </Layout>
 </template>
