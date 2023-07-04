@@ -17,7 +17,7 @@ export default defineConfig({
     //   prev: 'Pagina prior',
     //   next: 'Proxima pagina'
     // },
-    logo: '/mine1.png',
+    logo: '/logo.png',
     nav: [
       { text: '主页', link: '/' },
       // { text: 'Tag', link: "/" },
@@ -73,9 +73,10 @@ export default defineConfig({
         {
           text: '历史',
           items: [
-            { text: '从1840到1919', link: 'history/zhenmianWar2_1919' },
+            { text: '从1840到1919【时局图】', link: 'history/zhenmianWar2_1919' },
             {text:'中晚清，清军与主要农民运动', link:'history/Qin_peasantMovement'},
-            { text: '北洋政府时期（1912-1928）', link: 'history/beiyang_war' },
+            { text: '北洋政府时期之军事行动一览（1912-1928）', link: 'history/beiyang_war' },
+            { text: '北洋政府之群雄逐鹿', link: 'history/beiyang_persons' },
           ]
         }
       ]
