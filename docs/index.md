@@ -22,7 +22,7 @@ hero:
 features:
 
   - title: 北洋政府之群雄逐鹿
-    details: ADFAS 
+    details: 粉墨登场
     link: 'history/beiyang_persons'
     
   - title: 从1840到1919
