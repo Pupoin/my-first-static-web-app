@@ -87,7 +87,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Pupoin' },
-      { icon: 'linkedin', link: "https://www.linkedin.com/in/zhaoyang-yuan"},
+      { icon: 'linkedin', link: "https://www.linkedin.com/in/zhaoyang"},
       
     ],
 
