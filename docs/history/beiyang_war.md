@@ -5,9 +5,13 @@
 # editLink: true
 # aside: false # true, 'left'
 # outline: 2 #number | [number, number] | 'deep' | false
-# prev:
-#   text: 'Markdown'
-#   link: '/guide/markdown'
+prev:
+  text: '清中后期(1840~二十世纪)，清军与主要农民运动 简述'
+  link: '/history/Qin_peasantMovement'
+
+next:
+  text: '北洋政府时期之群雄逐鹿'
+  link: '/history/beiyang_persons'
 # head:
 #   - - meta
 #     - name: description
@@ -16,7 +20,7 @@
 #     - name: keywords
 #       content: super duper SEO
 ---
-# <center>北洋政府时期（1912-1928）</center>
+# <center>北洋政府时期之军事行动一览（1912-1928）</center>
 
 ## 二次革命
 1913年，

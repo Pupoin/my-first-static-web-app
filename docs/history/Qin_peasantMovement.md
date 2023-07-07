@@ -1,6 +1,12 @@
 ---
 outline: 'deep' #number | [number, number] | 'deep' | false
 layout: 'doc'
+prev:
+  text: '从1840到1919 【时局图】'
+  link: '/history/zhenmianWar2_1919'
+next:
+  text: '北洋政府时期之军事行动一览（1912-1928）'
+  link: '/history/beiyang_war'
 ---
 # <center>清中后期(1840~二十世纪)，清军与主要农民运动 简述 <Badge type="tip" text="Beta 1.1"/> </center>
 

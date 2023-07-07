@@ -1,3 +1,9 @@
+---
+next:
+  text: '清中后期(1840~二十世纪)，清军与主要农民运动 简述'
+  link: 'history/Qin_peasantMovement'
+---
+
 # <center> 从1840到1919 【时局图】 <Badge type="tip" text="Beta 1.3" /></center>
 
 ## 1860前
