@@ -77,6 +77,9 @@ export default defineConfig({
             {text:'中晚清，清军与主要农民运动', link:'history/Qin_peasantMovement'},
             { text: '北洋政府时期之军事行动一览（1912-1928）', link: 'history/beiyang_war' },
             { text: '北洋政府之群雄逐鹿', link: 'history/beiyang_persons' },
+            { text: '《抗日正面战场》之1931-1937', link: 'history/zhenmianWar2_1937' },
+            { text: '日本国内政坛之1931-1945', link: 'history/zhenmianWar2_japan1945' },
+            { text: '蒋的内部矛盾与私心', link: 'history/jiangjieshi_problems' },
           ]
         }
       ]
