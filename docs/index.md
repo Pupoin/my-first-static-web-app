@@ -21,6 +21,10 @@ hero:
 
 features:
 
+  - title: 信用卡那事
+    details: 利息等
+    link: 'other/credit'
+  
   - title: 北洋政府之群雄逐鹿
     details: 粉墨登场
     link: 'history/beiyang_persons'

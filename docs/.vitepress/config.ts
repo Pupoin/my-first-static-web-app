@@ -62,7 +62,9 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '杂谈', link: 'other/Z0' },
-            { text: '那年那事', link: 'other/history' }
+            { text: '那年那事', link: 'other/history' },
+            { text: '信用卡那事', link: 'other/credit' }
+          
           ]
         }
 
